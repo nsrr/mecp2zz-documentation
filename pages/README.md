@@ -7,7 +7,7 @@ A total of 20 animals were used for surgical procedures. Males (5-6 weeks old) (
 
 ## Data overview
 
-The [EDF files](:files_path:/EDF_Files) contain the raw data which include 2 EEG channels, and 1 EMG channel.  Data was converted from a proprietary digital format (.rhd) to European Data Format (.edf) file using custom software and digitized at 250 Hz. Data was then further analyzed and scored using VitalRecorder acquisition software (SleepSign for Animal, Kissei Comtec Co., LTD, Nagano, Japan). EEG and EMG data were high and low band pass filtered at 0.05 and 50 Hz and 15 and 30 Hz, respectively with a Notch filter set to 60 Hz.EEG power analysis was conducted from EEG spectra analysis of 0.5 - 50 Hz. The [CSV files](:files_path:/CSV_Files) provided contain scored every scored epoch along with spectral information for the entire 48 hours. 
+The RHD2000 amplifier Intan system recorded the raw EEG and EMG data in (.rhd) format. Data was then converted to [European Data Format (.edf) files](:files_path:/EDF_files) using custom software digitalized at 250 Hz. Initially, files were scored using deep-neuronal network algorithm SPINDLE (Miladinović et al., 2019) and then collected in CSV format for manual verification using SleepSign software (Kissei Comtec America, INC). EEG and EMG data were high and low band pass filtered at 0.05 and 50 Hz and 15 and 30 Hz, respectively with a Notch filter set to 60 Hz. EEG power analysis was conducted from EEG spectra analysis of 0.5- 50 Hz. The [CSV files](:files_path:/CSV_files) provided contain every scored epoch along with spectral information for the entire 48 hours.
 
 The [Mecp2ZZ_Annotated_DataCollectionForm (XLSX) file](:files_path:/) provides contextual information about the mice and EDF/CSV filenames.
 
