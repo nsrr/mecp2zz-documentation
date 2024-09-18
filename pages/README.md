@@ -1,5 +1,6 @@
 ## About
 
+Mutations in the methyl-CpG-binding protein 2 (MeCP2) gene are the primary cause of Rett syndrome (RTT), a rare neurodevelopmental disorder that manifests early in childhood. This study used a Rett syndrome mouse model, Mecp2-/y, to study sleep architecture and the homeostatic response to sleep deprivation using polysomnography. Polysomnography recordings were collected over a 48-hour period from 20 male mice, aged 5 to 6 weeks. The first 24 hours comprised baseline recordings, followed by five hours of sleep deprivation and 19 hours of recovery sleep. 
 
 ## Methods
 
@@ -34,6 +35,9 @@ Users must include the following text in any Acknowledgements:
 ## References
 
 - Mecp2ZZ GitHub Documentation: https://github.com/nsrr/mecp2zz-documentation
+- [Ingiosi AM, Schoch H, Wintler T, Singletary KG, Righelli D, Roser LG, Medina E, Risso D, Frank MG, Peixoto L. Shank3 modulates sleep and expression of circadian transcription factors. Elife. 2019 Apr 11;8:e42819. doi: 10.7554/eLife.42819. PMID: 30973326; PMCID: PMC6488297.](https://pubmed.ncbi.nlm.nih.gov/30973326/)
+- [Medina E, Peterson S, Ford K, Singletary K, Peixoto L. Critical periods and Autism Spectrum Disorders, a role for sleep. Neurobiol Sleep Circadian Rhythms. 2022 Dec 20;14:100088. doi: 10.1016/j.nbscr.2022.100088. PMID: 36632570; PMCID: PMC9826922.](https://pubmed.ncbi.nlm.nih.gov/36632570/)
+- [Miladinović Đ, Muheim C, Bauer S, Spinnler A, Noain D, Bandarabadi M, Gallusser B, Krummenacher G, Baumann C, Adamantidis A, Brown SA, Buhmann JM. SPINDLE: End-to-end learning from EEG/EMG to extrapolate animal sleep scoring across experimental settings, labs and species. PLoS Comput Biol. 2019 Apr 18;15(4):e1006968. doi: 10.1371/journal.pcbi.1006968. PMID: 30998681; PMCID: PMC6490936.](https://pubmed.ncbi.nlm.nih.gov/30998681/)
 
 ## Questions?
 
