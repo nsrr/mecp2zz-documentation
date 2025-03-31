@@ -14,7 +14,7 @@ The [Mecp2ZZ_Annotated_DataCollectionForm (XLSX) file](:files_path:/) provides c
 
 ## Access and usage restrictions
 
-The Mecp2ZZ dataset is only available for non-commercial use.
+The MeCP2ZZ dataset is only available for non-commercial use.
 
 ## Citation and acknowledgement
 
@@ -30,7 +30,7 @@ Users must include the following text in any Acknowledgements:
 
 *March 2025*
 
-- Make Mecp2ZZ dataset available for data requests
+- Make MeCP2ZZ dataset available for data requests
 
 ## References
 
