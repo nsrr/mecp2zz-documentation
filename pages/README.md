@@ -24,7 +24,7 @@ When using this dataset, users must cite the following:
 
 Users must include the following text in any Acknowledgements:
 
-> The Mecp2ZZ work was supported by the National Institutes of Health (1F99NS135815-01). The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).
+> The Mecp2ZZ work was supported by the National Institutes of Health (1F99NS135815-01). The Mecp2ZZ work was supported by Simons Foundation Autism Research Initiative Pilot Award (878115) to L.P. The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).
 
 ## Changelog
 
